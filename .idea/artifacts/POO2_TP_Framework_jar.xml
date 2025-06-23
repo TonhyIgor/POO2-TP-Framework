@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="POO2-TP-Framework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/POO2_TP_Framework_jar</output-path>
+    <root id="archive" name="POO2-TP-Framework.jar">
+      <element id="module-output" name="POO2-TP-Framework" />
+    </root>
+  </artifact>
+</component>
